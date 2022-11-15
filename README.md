@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/alex-boden/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white?" alt="LinkedIn Badge"/>
   </a> 
+  <p></p>
   <a href="mailto:alex.boden@uwaterloo.ca">
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
