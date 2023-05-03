@@ -16,4 +16,4 @@ Computer Science Student @ University of Waterloo. Always looking for opportunit
   </a>
 </div>
 
-### Check out my projects
+### Check out my pinned projects
