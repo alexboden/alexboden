@@ -4,6 +4,7 @@
 ## About
 Computer Science Student @ University of Waterloo. Always looking for opportunities software, programming or math!
 
+I was born June 13th, 2003 but my first github commit was the day before!
 
 ### Contact Me!
 
