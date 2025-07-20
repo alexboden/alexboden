@@ -2,7 +2,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexboden)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## About
-Computer Science Student @ University of Waterloo. Always looking for opportunities software, programming or math!
+Computer Science Student @ University of Waterloo. Always looking for opportunities software!
 
 ### Contact Me!
 
