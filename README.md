@@ -4,15 +4,4 @@
 ## About
 Computer Science Student @ University of Waterloo. Always looking for opportunities software!
 
-### Contact Me!
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/alex-boden/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white?" alt="LinkedIn Badge"/>
-  </a> 
-  <a href="mailto:alex.boden@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
-  </a>
-</div>
-
 ### Check out my pinned projects
